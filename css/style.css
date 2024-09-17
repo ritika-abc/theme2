@@ -6875,7 +6875,7 @@ button.close {
 }
 
 .bg-primary {
-  background-color: #79efb4 !important;
+  background-color: #f62a66 !important;
 }
 
 a.bg-primary:hover,
@@ -7012,6 +7012,7 @@ button.bg-dark:focus {
 
 .border-primary {
   border-color: #f62a66 !important;
+ 
 }
 
 .border-secondary {
@@ -13114,5 +13115,13 @@ textarea.form-control {
 }
 
 .margin{
-  margin: 6rem 6rem;
+  margin: 6rem 0rem;
+}
+
+.border_box{
+  border: 2px solid #f62a66 ;
+}
+.info  {
+  width: 100% !important;
+  text-align: justify !important;
 }
